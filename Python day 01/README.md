@@ -1,5 +1,3 @@
-Here’s a concise and informative `README.md` for your Caesar Cipher encryptor project:
-
 ---
 
 ### **Caesar Cipher Encryptor**  
