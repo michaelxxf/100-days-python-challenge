@@ -24,7 +24,15 @@ The Caesar Cipher shifts each letter in the input text by a specified number of 
 - Output: `Nkrru cuxrj!`
 
 ---
+#### **Python Functions Used**
+- **`chr()`**: Converts a Unicode code point into a character.  
+  [Documentation](https://docs.python.org/3/library/functions.html#chr)  
+- **`ord()`**: Converts a character into its Unicode code point.  
+  [Documentation](https://docs.python.org/3/library/functions.html#ord)
 
+These functions are essential for shifting characters while maintaining their case.
+
+---
 #### **Usage**  
 1. Run the program:
    ```bash
@@ -44,6 +52,12 @@ Encrypted Text: Khoor, Zruog!
 ```
 
 ---
+#### **References**  
+- [chr() Function Documentation](https://docs.python.org/3/library/functions.html#chr)  
+- [ord() Function Documentation](https://docs.python.org/3/library/functions.html#ord)  
+- [Caesar Cipher Explanation](https://en.wikipedia.org/wiki/Caesar_cipher)
+
+---
 
 #### **License**  
 This project is licensed under the [MIT License](LICENSE).
@@ -55,5 +69,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 `https://github.com/michaelxxf/100-days-python-challenge`
-
-Feel free to contribute, fork, or share your feedback! 😊
